@@ -22,7 +22,7 @@ Website ini dibuat untuk mempermudah pencatatan kehadiran guru serta jurnal kegi
 ## Struktur Database
 Tabel utama:
 - `guru` — data guru (nama, NIP, mata pelajaran)
-- `kelass` — data kelas
+- `kelas` — data kelas
 - `jurnal_mengajar` — data jurnal kegiatan mengajar
 
 ## Cara Menjalankan
